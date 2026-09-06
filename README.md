@@ -44,16 +44,20 @@ The project covers:
 
 An interactive Excel dashboard was developed to present key business metrics and insights in a clear and professional format.
 
+![Zepto Sales Dashboard](zepto-sales-dashboard.png)
+
 ### Key Dashboard Areas
 
 * Total Sales
+* Total Products
+* Average Sales
 * Total Orders
-* Sales Trends
-* Product Performance
-* Category Performance
-* Customer Segments
-* Payment Methods
-* Delivery Status
+* Total Customers
+* Total Quantity
+* Monthly Sales Trend
+* Daily Sales Trend
+* Top 10 Orders by Sales
+* Customer Analysis by City
 
 ## 🛠️ Tools & Technologies
 
@@ -70,16 +74,10 @@ An interactive Excel dashboard was developed to present key business metrics and
 ```text
 zepto-sales-analysis/
 │
-├── data/
-│   └── zepto_sales_raw.xlsx
-│
-├── documentation/
-│   └── Zepto_Sales_Data_Cleaning_Documentation.pdf
-│
-├── dashboard/
-│   └── zepto_sales_dashboard.png
-│
-└── README.md
+├── README.md
+├── zepto_sales_raw.xlsx
+├── data-cleaning-documentation.pdf
+└── zepto-sales-dashboard.png
 ```
 
 ## ✅ Outcome
