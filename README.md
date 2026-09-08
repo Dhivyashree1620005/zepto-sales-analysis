@@ -80,6 +80,15 @@ zepto-sales-analysis/
 └── zepto-sales-dashboard.png
 ```
 
+## 🔍 Key Insights
+
+* **Total Sales:** ₹563,992.25
+* **Total Orders:** 1,500
+* **Total Customers:** 300
+* **Total Products:** 200
+* **Total Quantity Sold:** 4,207
+* **Average Sales per Order:** ₹375.99
+
 ## ✅ Outcome
 
 The project transformed raw Zepto sales data into a structured and analysis-ready dataset, followed by an interactive dashboard that provides clear insights into **sales performance, product trends, customer behavior, payment patterns, and delivery operations**.
